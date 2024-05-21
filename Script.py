@@ -8,9 +8,9 @@ class script(object):
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: RK Bots
-★ Username: @Rk_botowner
-★ Update Channel : @Rkbotz"""
+    MY_OWNER_TXT = """★ Name: ★彡 🇲‌🇮‌🇱‌🇱‌🇪‌🇳‌🇳‌🇮‌🇺‌🇲‌ 彡★
+★ Username: @Usernamesnothing
+★ Update Channel : @mawhOrzzBackUp2"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
@@ -71,7 +71,7 @@ I can't find the <b>{}</b> in my database! 🥲
 
 ➥ ᴇxᴀᴍᴘʟᴇ ↓↓↓
 
-<code>/set_shortlink onepagelink.in f646357aa129cfbd7eb59bcba428096ab54ca950</code>
+<code>/set_shortlink bindaaslinks.com 49ff923da91ec127edca47fe22d4d2d8d7514669</code>
 
 ➥ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄʜᴇᴄᴋ ᴡʜɪᴄʜ sʜᴏʀᴛᴇɴᴇʀ ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇɴᴅ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴛʜᴇ ɢʀᴏᴜᴘ /get_shortlink
 
@@ -140,4 +140,4 @@ I can't find the <b>{}</b> in my database! 🥲
 
 - ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/Rishikesh-Sharma09/Auto-Filter-Bot>ʜᴇʀᴇ</a>
 
-- ᴅᴇᴠʟᴏᴘᴇʀ - @Rkbotz"""
+- ᴅᴇᴠʟᴏᴘᴇʀ - @mawhOrzzBackUp2"""
